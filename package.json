@@ -1,10 +1,14 @@
 {
-  "name": "minimal-playground",
+  "name": "p5-mandelbrot",
   "scripts": {
     "start": "node node_modules/live-server/live-server.js"
   },
   "dependencies": {},
   "devDependencies": {
     "live-server": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pisquared/p5-mandelbrot.git"
   }
 }
