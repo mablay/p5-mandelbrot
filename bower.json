@@ -1,0 +1,7 @@
+{
+  "name": "minimal-playground",
+  "version": "0.1.0",
+  "dependencies": {
+    "p5.js": "p5js#^0.5.5"
+  }
+}
