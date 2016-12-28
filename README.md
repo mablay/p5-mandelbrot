@@ -3,6 +3,10 @@ Playground project - rendering the [Mandelbrot set](https://en.wikipedia.org/wik
 
 The project is meant for experimentation. It's using [live-server](https://www.npmjs.com/package/live-server). So, you'll see changes as you edit files.
 
+See the [demo](https://pisquared.github.io/p5-mandelbrot/)
+
+![screenshot](https://pisquared.github.io/p5-mandelbrot/docs/p5-mb-screenshot.png)
+
 ## Requirements
 
 * [Node](https://nodejs.org)
